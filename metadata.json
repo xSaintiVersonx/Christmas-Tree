@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic Gallery",
+  "description": "A magical 3D interactive photo gallery controlled by hand gestures. Experience your memories in a festive particle environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
